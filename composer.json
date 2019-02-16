@@ -1,0 +1,11 @@
+{
+    "name": "rajushrestha/wp-config",
+    "description": "WP custom config file",
+    "authors": [
+        {
+            "name": "rajushrestha",
+            "email": "raju@lunover.com"
+        }
+    ],
+    "require": {}
+}
